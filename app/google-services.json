@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "423919632091",
+    "firebase_url": "https://chatter-runner.firebaseio.com",
+    "project_id": "chatter-runner",
+    "storage_bucket": "chatter-runner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423919632091:android:c00b0987320650937ad6fe",
+        "android_client_info": {
+          "package_name": "com.dec.runner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423919632091-qrmja5bsffo8dllnhrfp3af9ck4fk1s0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dec.runner",
+            "certificate_hash": "375381ef6b6767b8bdaa73ae6bc49b44fa49818b"
+          }
+        },
+        {
+          "client_id": "423919632091-mc21689b0km1ghqm0bs4l1j4r52rgang.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJtwm_G3l7Tm57_LTeog899DO2QFbIiFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423919632091-mc21689b0km1ghqm0bs4l1j4r52rgang.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

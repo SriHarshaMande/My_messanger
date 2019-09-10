@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Runner</string>
+
+    <string name="title_activity_home">Home</string>
+    <string name="wText">U are sucessfully logged in</string>
+    <string name="p_password">Enter Password</string>
+    <string name="p_phone">Enter Phone Number</string>
+    <string name="p_email">Enter Email Address</string>
+    <string name="p_name">Enter Name</string>
+    <string name="invalid">Invalid Credentials</string>
+    <string name="sucess">Sucessful</string>
+</resources>
